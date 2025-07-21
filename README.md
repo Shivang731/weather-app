@@ -50,8 +50,9 @@ API_KEY = "your_api_key_here"
 
 ## 📫 Contact
 **Shivang Kumar Dubey**
-📧 shivangdubey731@gmail.com
-🌐 GitHub Profile
+📧  [shivangdubey731@gmail.com](mailto:shivangdubey731@gmail.com)
+🌐 [GitHub Profile](https://github.com/Shivang731)
+
 
 
 ⭐️ Give this repo a star if you liked it!
